@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Hangman_Finished" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Hangman_Finished" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="headers" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Hangman_Finished" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="files/SDL_init.cpp" />
+		<Unit filename="files/category.cpp" />
+		<Unit filename="files/credit.cpp" />
+		<Unit filename="files/difficulty.cpp" />
+		<Unit filename="files/game.cpp" />
+		<Unit filename="files/gameOver.cpp" />
+		<Unit filename="files/gameScene.cpp" />
+		<Unit filename="files/main.cpp" />
+		<Unit filename="files/menu.cpp" />
+		<Unit filename="files/scenes.cpp" />
+		<Unit filename="files/word.cpp" />
+		<Unit filename="headers/SDL_init.h" />
+		<Unit filename="headers/category.h" />
+		<Unit filename="headers/credit.h" />
+		<Unit filename="headers/difficulty.h" />
+		<Unit filename="headers/game.h" />
+		<Unit filename="headers/gameOver.h" />
+		<Unit filename="headers/gameScene.h" />
+		<Unit filename="headers/menu.h" />
+		<Unit filename="headers/scenes.h" />
+		<Unit filename="headers/word.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

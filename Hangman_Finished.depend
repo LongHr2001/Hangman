@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1589782374 source:c:\users\f87\desktop\code\hangman_finished\main.cpp
+	<iostream>
+	"SDL_init.h"
+	"scenes.h"
+	"menu.h"
+
+1589255548 c:\users\f87\desktop\code\hangman_finished\sdl_init.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1589291772 source:c:\users\f87\desktop\code\hangman_finished\sdl_init.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1589209914 c:\users\f87\desktop\code\hangman_finished\scenes.h
+
+1589783541 source:c:\users\f87\desktop\code\hangman_finished\menu.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"menu.h"
+
+1589210034 source:c:\users\f87\desktop\code\hangman_finished\scenes.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"scenes.h"
+
+1589784252 c:\users\f87\desktop\code\hangman_finished\menu.h
+	"SDL_init.h"
+
+1589257224 c:\users\f87\desktop\code\hangman_finished\main.cpp
+	<iostream>
+	"SDL_init.h"
+	"scenes.h"
+	"menu.h"
+
+1590386352 source:d:\code\hangman_finished\main.cpp
+	<iostream>
+	"SDL_init.h"
+	"scenes.h"
+	"menu.h"
+
+1589205148 d:\code\hangman_finished\sdl_init.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1590413753 d:\code\hangman_finished\scenes.h
+	"menu.h"
+	"credit.h"
+	"game.h"
+
+1590414101 d:\code\hangman_finished\menu.h
+	"SDL_init.h"
+
+1590392320 source:d:\code\hangman_finished\menu.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"menu.h"
+
+1590416051 source:d:\code\hangman_finished\scenes.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"scenes.h"
+
+1589241372 source:d:\code\hangman_finished\sdl_init.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1561870398 d:\sdl\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322290 d:\sdl\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1590415963 d:\code\hangman_finished\credit.h
+
+1590414609 source:d:\code\hangman_finished\credit.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_init.h"
+	"credit.h"
+
+1590416037 d:\code\hangman_finished\game.h
+
+1590414609 source:d:\code\hangman_finished\game.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_init.h"
+	"game.h"
+
+1590993945 source:d:\code\hangman_finished\files\credit.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_init.h"
+	"credit.h"
+
+1590993808 source:d:\code\hangman_finished\files\menu.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"menu.h"
+
+1590995069 source:d:\code\hangman_finished\files\sdl_init.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1590995094 d:\code\hangman_finished\headers\sdl_init.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1590993866 d:\code\hangman_finished\headers\credit.h
+	"SDL_init.h"
+
+1590413753 d:\code\hangman_finished\headers\scenes.h
+	"menu.h"
+	"credit.h"
+	"game.h"
+
+1590991136 d:\code\hangman_finished\headers\menu.h
+	"SDL_init.h"
+
+1590754521 d:\code\hangman_finished\headers\game.h
+	"category.h"
+	"difficulty.h"
+	"gameScene.h"
+	"gameOver.h"
+
+1590420436 source:d:\code\hangman_finished\files\main.cpp
+	<iostream>
+	"SDL_init.h"
+	"scenes.h"
+	"menu.h"
+
+1590576076 source:d:\code\hangman_finished\files\scenes.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"scenes.h"
+
+1590991227 source:d:\code\hangman_finished\files\difficulty.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_init.h"
+	"difficulty.h"
+
+1590991120 d:\code\hangman_finished\headers\difficulty.h
+	"SDL_init.h"
+
+1590754801 source:d:\code\hangman_finished\files\game.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<chrono>
+	"game.h"
+
+1590994289 d:\code\hangman_finished\headers\gamescene.h
+	<iostream>
+	"SDL_init.h"
+
+1591028873 source:d:\code\hangman_finished\files\gamescene.cpp
+	<iostream>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"game.h"
+	"SDL_init.h"
+	"word.h"
+
+1590507279 source:d:\code\hangman_finished\files\gamescene_word.cpp
+	<iostream>
+	<fstream>
+	"game.h"
+
+1590676743 source:d:\code\hangman_finished\files\word.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<algorithm>
+	"game.h"
+
+1590572874 d:\code\hangman_finished\headers\word.h
+
+1591025332 d:\code\hangman_finished\headers\gameover.h
+
+1591028842 source:d:\code\hangman_finished\files\gameover.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_init.h"
+	"gameOver.h"
+	"word.h"
+
+1590991081 d:\code\hangman_finished\headers\category.h
+	"SDL_init.h"
+
+1590991201 source:d:\code\hangman_finished\files\category.cpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_init.h"
+	"category.h"
+
